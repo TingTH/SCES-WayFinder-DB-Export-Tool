@@ -1,0 +1,188 @@
+START ZONE,PRIMARY,DIRECTIONS 1,IMAGE URL 1,DIRECTIONS 2,IMAGE URL 2,DIRECTIONS 3,IMAGE URL 3
+Zone 1,A1,Continue straight to exit,https://i.imgur.com/6CnQB2G.jpg
+Zone 1,A2,Continue straight,https://i.imgur.com/FgxdkgI.jpg,Take stairs up,https://i.imgur.com/t0j9B17.jpg
+Zone 1,A3,Continue straight,https://i.imgur.com/i6KFyzX.jpg,Turn left to elevator,https://i.imgur.com/mVMz3MI.jpg
+Zone 1,A4,Continue straight,https://i.imgur.com/aTlLrnW.jpg
+
+Zone 2,A5,Continue straight,https://i.imgur.com/XxcnxYz.jpg,Take a slight left,https://i.imgur.com/dsOvahO.jpg
+Zone 2,A6,Continue straight,https://i.imgur.com/oFMzL8j.jpg,Continue straight to exit,https://i.imgur.com/5I59PH0.jpg
+
+Zone 3,A4,Continue straight,https://i.imgur.com/U1DT2dF.jpg,Take a slight left,https://i.imgur.com/je3dNzr.jpg
+Zone 3,A5,Continue straight,https://i.imgur.com/j6hiRm4.jpg,Take a right through doors,https://i.imgur.com/C5XNWoE.jpg
+Zone 3,A7,Take a slight right,https://i.imgur.com/KefxBLy.jpg,Take stairs down,https://i.imgur.com/JaAtXrS.jpg
+Zone 3,A8,Continue straight,https://i.imgur.com/fRyd6LL.jpg
+
+Zone 4,A7,Take stairs up,https://i.imgur.com/WoCYwym.jpg
+Zone 4,A9,Continue straight through door,https://i.imgur.com/7Dm1Zou.jpg
+Zone 4,A10,Continue straight,https://i.imgur.com/3UdaSeZ.jpg
+Zone 4,A27,Exit building,https://i.imgur.com/8mw1Gvd.jpg,Take stairs up,https://i.imgur.com/tE4OJDH.jpg
+Zone 4,A28,Exit building,https://i.imgur.com/8mw1Gvd.jpg,Take a slight right to elevator,https://i.imgur.com/J15v8O5.jpg
+Zone 4,A29,Exit building,https://i.imgur.com/8mw1Gvd.jpg,Turn right,
+
+Zone 5,A10,Continue straight,https://i.imgur.com/bpmB2yG.jpg
+Zone 5,A11,Take a slight right to elevator,https://i.imgur.com/0xP0HWD.jpg
+Zone 5,A12,Take a slight left through doors,https://i.imgur.com/DQ1n8MP.jpg
+Zone 5,A13,Take stairs up,https://i.imgur.com/gOaMmWY.jpg
+Zone 5,A14,Continue straight,https://i.imgur.com/MzRvioc.jpg,Take a left through doors,https://i.imgur.com/KzYLHLS.jpg
+
+Zone 6,A14,Take stairs down,https://i.imgur.com/JShagHy.jpg,Take a slight left through doors,https://i.imgur.com/yW4j4Cw.jpg
+Zone 6,A15,Continue straight,https://i.imgur.com/YXQ3BZY.jpg,Turn left,https://i.imgur.com/PPMhgiT.jpg
+Zone 6,A16,Continue straight,https://i.imgur.com/YXQ3BZY.jpg,Continue straight,https://i.imgur.com/VQxmZPl.jpg
+
+Zone 7,A16,Continue straight,https://i.imgur.com/9IvqKiB.jpg
+Zone 7,A17,Take stairs up,https://i.imgur.com/WpUmSHO.jpg,Take stairs up to exit,https://i.imgur.com/FRqpiTc.jpg
+Zone 7,A18,Continue straight,https://i.imgur.com/VQxmZPl.jpg,Take a slight left to exit,https://i.imgur.com/3lW8QtS.jpg
+
+Zone 8,A18,Continue straight through doors,https://i.imgur.com/y6CLbUP.jpg
+Zone 8,A19,Continue straight through doors,https://i.imgur.com/8y5N6qr.jpg
+
+Zone 9,A19,Take a slight right through doors,https://i.imgur.com/kTK7jAv.jpg
+Zone 9,A20,Turn left,https://i.imgur.com/hLeOoCG.jpg
+
+Zone 10,A20,Continue straight,https://i.imgur.com/1pwLYXK.jpg
+Zone 10,A21,Continue straight,https://i.imgur.com/GVHmNxc.jpg
+
+Zone 11,A15,Continue straight,https://i.imgur.com/O17dAzO.jpg,Take a slight left,https://i.imgur.com/fDNW8aC.jpg
+Zone 11,A21,Continue straight,https://i.imgur.com/bHKefcK.jpg,Turn right,https://i.imgur.com/nIXHFuh.jpg
+Zone 11,A22,Continue straight,https://i.imgur.com/bHKefcK.jpg,Turn left,https://i.imgur.com/RPpOfOa.jpg
+
+Zone 12,A22,Continue straight,https://i.imgur.com/Ct3NLRq.jpg
+Zone 12,A23,Turn right,https://i.imgur.com/xiy9zJl.jpg
+Zone 12,A24,Take stairs down,https://i.imgur.com/2crwLnN.jpg,Turn right,https://i.imgur.com/AL314g3.jpg,Turn left,https://i.imgur.com/SqaYccE.jpg
+
+Zone 13,A12,Continue straight,https://i.imgur.com/10PLIjk.jpg
+Zone 13,A23,Continue straight,https://i.imgur.com/DK5AUAb.jpg,Take stairs up,https://i.imgur.com/Rwya521.jpg
+
+Zone 14,A8,Continue straight,https://i.imgur.com/neYuQUp.jpg
+Zone 14,A9,Take ramp down,https://i.imgur.com/2AIyu2B.jpg
+Zone 14,A24,Continue down hallway,https://i.imgur.com/L5UsMIs.jpg
+
+Zone 17,B1,Down stairs by Crystal Cove,https://i.imgur.com/I2MJFWq.jpg,Take stairs down,https://i.imgur.com/BkDdSoV.jpg
+Zone 17,B2,Down stairs by Crystal Cove,https://i.imgur.com/I2MJFWq.jpg,Take elevator by stairs,https://i.imgur.com/Rjzb5Nk.jpg
+Zone 17,B3,Take stairs up,https://i.imgur.com/3sfigkn.jpg,Exit building,https://i.imgur.com/G8CIq76.jpg
+Zone 17,B4,Take stairs up,https://i.imgur.com/3sfigkn.jpg,Enter Food Court doors,https://i.imgur.com/tK7ymm0.jpg
+
+Zone 18,B4,Exit Food Court,https://i.imgur.com/yG09YCm.jpg
+Zone 18,B5,Exit Food Court,https://i.imgur.com/IMovaFE.jpg
+Zone 18,B6,Exit Food Court,https://i.imgur.com/bJutBYr.jpg
+Zone 18,B7,Exit Food Court,https://i.imgur.com/jAqbCzk.jpg
+
+Zone 19,B16,Exit Food Court,https://i.imgur.com/yMTrWiQ.jpg
+Zone 19,B17,Exit Food Court,https://i.imgur.com/upDROov.jpg
+Zone 19,B18,Enter Bookstore doors,https://i.imgur.com/7X6ulsr.jpg
+Zone 19,B35,Exit Food Court,https://i.imgur.com/1yMtX5h.jpg
+
+Zone 20,B18,Exit through Food Court doors,https://i.imgur.com/oU0iAPP.jpg
+Zone 20,B23,Exit through doors,https://i.imgur.com/ZBhMIzH.jpg
+Zone 20,B25,Exit through doors near AntTech,https://i.imgur.com/4SCMBK1.jpg
+
+Zone 21,C1,Exit through these doors,https://i.imgur.com/NMjErUO.jpg
+Zone 21,C3,Enter the elevator,https://i.imgur.com/G3ZuZOK.jpg
+
+Zone 22,C5,Exit through these doors,https://i.imgur.com/NtKxDzE.jpg
+Zone 22,C6,Go towards elevator hallway,https://i.imgur.com/d0oxrXb.jpg
+Zone 22,C9,Exit through these doors,https://i.imgur.com/rhxBN6z.jpg
+
+Zone 23,C6,Enter hallway,https://i.imgur.com/SZv0Jnd.jpg
+Zone 23,C7,Enter the elevator,https://i.imgur.com/4d1Unzq.jpg
+Zone 23,C8,Take the stairs,https://i.imgur.com/JYbBcOw.jpg
+
+Zone 24,D2,Exit through door,https://i.imgur.com/aKvacJl.jpg
+Zone 24,D3,Go towards elevator hallway,https://i.imgur.com/GW7dSvw.jpg
+
+Zone 25,D3,Enter this hallway,https://i.imgur.com/LgiFBpU.jpg
+Zone 25,D4,Enter the elevator,https://i.imgur.com/bSxYlRK.jpg
+Zone 25,D5,Take stairs down,https://i.imgur.com/dvaIo8r.jpg
+
+Zone 26,B33,Exit through doors,https://i.imgur.com/yRUyhUi.jpg
+Zone 26,B34,Exit through doors,https://i.imgur.com/rixta72.jpg
+Zone 26,B36,Exit through doors,https://i.imgur.com/m480ZLO.jpg
+
+Zone 27,B36,Exit through doors,https://i.imgur.com/NUxetjD.jpg
+Zone 27,B37,Exit through doors,https://i.imgur.com/4qDOu4S.jpg
+Zone 27,B38,Exit through doors,https://i.imgur.com/4HfmAJV.jpg
+
+Outzone 6,B44,Through this door,https://i.imgur.com/RUUSQ46.jpg,Take elevator,https://i.imgur.com/HdQMskO.jpg
+Outzone 6,B47,Through doors past restroom,https://i.imgur.com/3PDMfCp.jpg,Take stairs up,https://i.imgur.com/dIRKWLY.jpg
+
+OutZone 1,B7,Enter Food Court doors,https://i.imgur.com/5HBcdqn.jpg
+OutZone 1,B8,Down the path,https://i.imgur.com/YgzJuCH.jpg
+
+OutZone 2,B5,Enter Food Court doors,https://i.imgur.com/sQGzeg7.jpg
+OutZone 2,B6,Enter Food Court doors,https://i.imgur.com/4OOpC0s.jpg
+OutZone 2,B8,Down the path towards the bridge,https://i.imgur.com/bmV9UuV.jpg
+OutZone 2,B9,Take stairs down,https://i.imgur.com/cN0xT7I.jpg
+OutZone 2,B10,Down the path,https://i.imgur.com/ir1Mqhl.jpg
+OutZone 2,B43,Down the path,https://i.imgur.com/K6gPaZs.jpg,Enter elevator,https://i.imgur.com/XlXqu3J.jpg
+
+OutZone 3,B10,Down the main path,https://i.imgur.com/TQkKOWi.jpg
+OutZone 3,B12,Down the main path,https://i.imgur.com/xaOgDj1.jpg
+OutZone 3,B13,Down the main path,https://i.imgur.com/o38Rhxz.jpg
+OutZone 3,B32,Take stairs up,https://i.imgur.com/uq23UVl.jpg
+
+OutZone 4,B13,Down the main path,https://i.imgur.com/yQ2Rqdq.jpg
+OutZone 4,B14,Down the main path,https://i.imgur.com/RHVdxFK.jpg
+
+OutZone 5,B15,Towards the main path,https://i.imgur.com/O4juTeY.jpg
+OutZone 5,B16,Enter Food Court doors,https://i.imgur.com/aIYcYbz.jpg
+OutZone 5,B17,Enter Food Court doors,https://i.imgur.com/rMOME2B.jpg
+OutZone 5,B35,Enter Food Court doors,https://i.imgur.com/RvBcsWd.jpg
+
+OutZone 6,B14,Down the main path,https://i.imgur.com/FAT5DX7.jpg
+OutZone 6,B15,Turn towards food court,https://i.imgur.com/3qsXbv9.jpg
+OutZone 6,B29,Down the main path,https://i.imgur.com/MUDmVgJ.jpg
+
+OutZone 7,B27,Down the main path,https://i.imgur.com/fPdzBgj.jpg
+OutZone 7,B28,Enter these doors,https://i.imgur.com/YeDcDTQ.jpg
+OutZone 7,B29,Down the main path,https://i.imgur.com/cj6M7eo.jpg
+OutZone 7,B50,Down the path,https://i.imgur.com/Vtxf2Dj.jpg
+
+OutZone 8,B26,Down the path,https://i.imgur.com/9wHg3TN.jpg
+OutZone 8,B27,Down the path,https://i.imgur.com/kxxWBpU.jpg
+OutZone 8,B30,Take right towards Zot-N-Go,https://i.imgur.com/xRadE6Y.jpg
+
+OutZone 9,B30,Continue straight,https://i.imgur.com/XEBeRKj.jpg
+OutZone 9,B31,Take stairs by Zot-N-Go,https://i.imgur.com/UxGcKy2.jpg
+
+OutZone 10,B24,Down the ramp near Starbucks,https://i.imgur.com/iMVBjDH.jpg
+OutZone 10,B26,Go down this path,https://i.imgur.com/XYhGGIp.jpg
+OutZone 10,B48,Take stairs near the Hill,https://i.imgur.com/FXVMo1J.jpg
+
+OutZone 11,B22,Down the ramp near Starbucks,https://i.imgur.com/iMVBjDH.jpg,Continue straight,https://i.imgur.com/IyLDbJS.jpg
+OutZone 11,B23,Down the ramp near Starbucks,https://i.imgur.com/iMVBjDH.jpg,Continue straight,https://i.imgur.com/Rd4gxO3.jpg,Enter building,https://i.imgur.com/SPxXblS.jpg
+OutZone 11,B24,Up the ramp near Starbucks,https://i.imgur.com/UYhvShe.jpg,Turn right,https://i.imgur.com/RUKd9JW.jpg
+OutZone 11,B25,Take right past Starbucks,https://i.imgur.com/LOUrwhm.jpg,Continue past Starbucks,https://i.imgur.com/ZY5Nyxu.jpg,Enter building,https://i.imgur.com/NzdMQDf.jpg
+OutZone 11,B33,Enter Starbucks,https://i.imgur.com/gV6PeXs.jpg
+OutZone 11,B34,Enter building,https://i.imgur.com/9J8crIe.jpg
+OutZone 11,B38,Continue straight past Starbucks,https://i.imgur.com/fvr8Fnr.jpg,Turn left to enter building,https://i.imgur.com/NObKDHc.jpg
+OutZone 11,B48,Take right past Starbucks,https://i.imgur.com/5eL4lRm.jpg,Take stairs up,https://i.imgur.com/3TfJdN9.jpg
+OutZone 11,B49,Continue past Starbucks,https://i.imgur.com/ZY5Nyxu.jpg,Continue straight,https://i.imgur.com/80efIwX.jpg
+
+OutZone 12,B20,Through doors downstairs,https://i.imgur.com/6tTh0tU.jpg
+OutZone 12,B21,Continue straight,https://i.imgur.com/5NtMBjV.jpg
+OutZone 12,B22,Continue straight,https://i.imgur.com/m4zVAPA.jpg
+
+OutZone 13,B9,Take stairs up,https://i.imgur.com/9BPVrTu.jpg
+OutZone 13,B39,Take a slight left,https://i.imgur.com/4JACHGq.jpg
+OutZone 13,B45,Turn right,https://i.imgur.com/tmxJ0bJ.jpg
+
+OutZone 14,B39,Continue straight; then left,https://i.imgur.com/Z2GdSLr.jpg
+OutZone 14,B40,Continue straight; then right,https://i.imgur.com/e0Pb2FC.jpg
+
+OutZone 15,B21,Continue straight,https://i.imgur.com/6EHFzfB.jpg
+OutZone 15,B41,Continue straight,https://i.imgur.com/XiKwSK6.jpg
+
+OutZone 16,A25,Go down to the sidewalk,https://i.imgur.com/aoQYCqu.jpg,Turn left and continue straight,https://i.imgur.com/azbjaHa.jpg
+OutZone 16,A26,Continue on the path,https://i.imgur.com/rRx9Bcx.jpg
+
+OutZone 22,C1,Enter these doors,https://i.imgur.com/98a9IFx.jpg
+OutZone 22,C2,Take stairs down,https://i.imgur.com/RzpcEGo.jpg
+
+OutZone 23,C4,Take the stairs,https://i.imgur.com/M9Kir2O.jpg
+OutZone 23,C5,Enter through doors,https://i.imgur.com/BgywC2v.jpg
+
+OutZone  24,C9,Enter through doors,https://i.imgur.com/hdsp35l.jpg
+OutZone  24,C10,Go towards stairs,https://i.imgur.com/iHMxhm5.jpg
+
+OutZone 25,D1,Take stairs down,https://i.imgur.com/a2eMG5m.jpg
+OutZone 25,D2,Enter through door,https://i.imgur.com/2TM7Dj0.jpg
